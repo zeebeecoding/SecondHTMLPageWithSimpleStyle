@@ -26,7 +26,7 @@ This project showcases the creation of a second HTML web page, following on from
 
 Here's a screenshot of how the web page looks:
 
-![Alt text](image.png)
+![Alt text](./assets/images/demo.PNG)
 
 ## Installation
 
